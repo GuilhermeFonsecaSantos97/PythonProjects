@@ -24,6 +24,7 @@ import re
 import psycopg2
 from fuzzywuzzy import fuzz
 
+#Testando o git
 
 #Configurando selenium
 chrome_options = webdriver.ChromeOptions()
